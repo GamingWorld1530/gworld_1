@@ -3,10 +3,10 @@
     "secondaryColorHex": "0xFF0b504f",
     "textColorHex": "0xFFE1DDE4",
     "splashBackgroundHex": "0x00000000",
-    "isOriginal": false,
+    "isOriginal": true,
     "appBarTitle": "WinOZ Games: Play and Win",
     "splashScreenLogo": "https://gamingworld1530.github.io/gworld_1/logo0-1.png",
-    "isMoreGamesAndVideoAvailable": false,
+    "isMoreGamesAndVideoAvailable": true,
     "isMoreGamesAndVideoIcon": "https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-notification-computer-and-internet-inipagistudio-mixed-inipagistudio.png",
     "moreGamesAndVideo": {
         "videos": [
@@ -797,7 +797,7 @@
             "url": "https://play.famobi.com/kumba-kool"
         }
     ],
-    "isAdsEnable": false,
+    "isAdsEnable": true,
     "showAds": [
         {
             "name": "SplashScreenBanner1",
