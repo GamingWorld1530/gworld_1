@@ -797,7 +797,7 @@
             "url": "https://play.famobi.com/kumba-kool"
         }
     ],
-    "isAdsEnable": false,
+    "isAdsEnable": true,
     "showAds": [
         {
             "name": "SplashScreenBanner1",
